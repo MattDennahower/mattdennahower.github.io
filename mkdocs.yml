@@ -1,5 +1,7 @@
 site_name: Matt Dennahower's Portfolio
 nav: 
   - Home: index.md
+  - Current projects:
+    - "WNBA Player Correlation Analysis": wnba_player_correlation/index.md
   - About: about.md
 theme: readthedocs
