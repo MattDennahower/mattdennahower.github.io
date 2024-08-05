@@ -1,7 +1,26 @@
-site_name: Matt Dennahower's Portfolio
+# Project Information
+site_name: Matthew Dennahower's Portfolio
+site_url: https://mattdennahower.github.io
+site_author: Matthew Dennahower
+site_description: "A portfolio of data science projects by Matthew Dennahower."
+
+# Repository Information
+repo_name: MattDennahower/mattdennahower.github.io
+repo_url: https://github.com/MattDennahower/mattdennahower.github.io
+
+# Configuration
+theme:
+  name: material
+  palette:
+    primary: "blue"
+    accent: "light blue"
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+
+# Navigation
 nav: 
   - Home: index.md
   - Current projects:
     - "WNBA Player Correlation Analysis": wnba_player_correlation/index.md
   - About: about.md
-theme: readthedocs
