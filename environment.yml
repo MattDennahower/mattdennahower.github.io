@@ -1,0 +1,4 @@
+name: portfolio_env
+channels:
+  - defaults
+prefix: C:\Users\mattd\miniconda3\envs\portfolio_env
