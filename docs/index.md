@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Welcome to Matthew Dennahower's data science portfolio
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## My journey
 
-## Commands
+Welcome to my data science portfolio! My name is Matthew Dennahower, and I am passionate about leveraging data to uncover insights and drive decision-making. My interests lie in the ever-evolving fields of sports analytics, economics, and market dynamics. Through this portfolio, I aim to showcase my projects and expertise in these areas, demonstrating how data can be used to solve complex problems and reveal hidden patterns. Explore my work and join me on this journey of discovery and innovation!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Current projects
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Previous projects
+Projects are sorted from most recent to oldest.
+
+### Data science projects
+
+
