@@ -22,4 +22,4 @@ theme:
 nav: 
   - Home: index.md
   - Current projects:
-    - "WNBA Player Correlation Analysis": wnba_player_correlation/index.md
+    - "WNBA Player Correlation Analysis": wnba_player_correlation/readme.md
