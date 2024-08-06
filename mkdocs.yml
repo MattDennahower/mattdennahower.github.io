@@ -23,3 +23,8 @@ nav:
   - Home: index.md
   - Current projects:
     - "WNBA Player Correlation Analysis": wnba_player_correlation/readme.md
+
+# Extentions
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.extra

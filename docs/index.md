@@ -6,6 +6,8 @@ Welcome to my data science portfolio! My name is Matthew Dennahower, and I am pa
 
 ![](images/40YardDash.png)
 
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/18982507"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Current projects
 
 
