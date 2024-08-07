@@ -5,7 +5,6 @@ This project involves web scraping in Python, followed by preprocessing, data cl
 
 <br>
 
-![](images/ind_ast_matrix.png)
 
 <br>
 

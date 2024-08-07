@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mattdennahower.github.io/epl_web_scraping/readme/</loc>
+         <lastmod>2024-08-07</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mattdennahower.github.io/wnba_player_correlation/readme/</loc>
          <lastmod>2024-08-07</lastmod>
          <changefreq>daily</changefreq>
