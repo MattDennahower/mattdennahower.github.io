@@ -19,7 +19,7 @@ Link : [wnba_player_correlation](https://github.com/MattDennahower/mattdennahowe
 ----
 #### Project Board
 
-2024-06-08 : 
+2024-08-06 : 
 
 - Creation of readme
 - Add image of projects and packages
