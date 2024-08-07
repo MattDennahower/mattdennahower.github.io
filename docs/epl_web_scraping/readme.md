@@ -26,6 +26,6 @@ Link : [epl_game_data](https://github.com/MattDennahower/mattdennahower.github.i
 ----
 #### Future work
 
-1. Further updating formatting and data cleaning process
+1. Enhance the formatting and data cleaning process.
 
-2. Add in additional visualizations from the data
+2. Incorporate additional visualizations from the data.
