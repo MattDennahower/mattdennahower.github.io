@@ -23,7 +23,7 @@ nav:
   - Home: index.md
   - Current projects:
     - "WNBA Player Correlation Analysis": wnba_player_correlation/readme.md
-    - "Web Scraping EPL Player Game Data": epl_player_game_data/readme.md
+    - "Web Scraping EPL Player Game Data": epl_web_scraping/readme.md
 
 # Extentions
 markdown_extensions:

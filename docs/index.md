@@ -14,6 +14,9 @@ Welcome to my data science portfolio! My name is Matthew Dennahower, and I am pa
 ## Current projects
 1/ [WNBA Player Correlation](wnba_player_correlation/readme.md) : 
 Data science project analyzing intra-team player correlation in the WNBA
+2/ [Web Scraping EPL Player Game Data](epl_web_scraping/readme.md) :
+Web scraping, preprocessing, cleaning, and exporting English Premier League player game data
+
 
 ## Previous projects
 Projects are sorted from most recent to oldest.
