@@ -1,10 +1,8 @@
 
-## The project
+## Objective
 
 This project focuses on analyzing the correlation between starting players on the same team in the WNBA league, specifically for the 2024 season. The data was sourced from a publicly accessible reference site, formatted into a .csv file, and then analyzed using pandas and seaborn to create a correlation matrix for each team.
-
 <br>
-
 ![](images/ind_ast_matrix.png)
 
 <br>

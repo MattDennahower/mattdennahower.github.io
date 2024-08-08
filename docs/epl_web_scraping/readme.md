@@ -1,11 +1,18 @@
 
-## The project
+## Objective
 
 This project involves web scraping in Python, followed by preprocessing, data cleaning, and exporting the data into a dataframe. Each English Premier League game is processed, with player statistics for each game saved to a dataframe and exported as a CSV file for further analysis.
 
 <br>
+Sample Data - 2023-2024 EPL Season Player Game Statistics
 
-
+| Player         | #  | Nation | Pos | Age    | Min | Gls | Ast | PK | PKatt | Sh | SoT | CrdY | CrdR | Touches | Tkl | Int | Blocks | xG  | npxG | xAG | SCA | GCA | Cmp | Att | Cmp% | PrgP | Carries | PrgC | Att.1 | Succ | Team    |
+| -------------- | -- | ------ | --- | ------ | --- | --- | --- | -- | ----- | -- | --- | ---- | ---- | ------- | --- | --- | ------ | --- | ---- | --- | --- | --- | --- | --- | ---- | ---- | ------- | ---- | ----- | ---- | ------- |
+| Zeki Amdouni   | 25 | SUI    | FW  | 22-250 | 60  | 0   | 0   | 0  | 0     | 1  | 1   | 0    | 0    | 23      | 1   | 0   | 0      | 0   | 0    | 0   | 1   | 0   | 10  | 11  | 90.9 | 0    | 11      | 1    | 4     | 2    | Burnley |
+| Anass Zaroury  | 19 | MAR    | FW  | 22-277 | 29  | 0   | 0   | 0  | 0     | 1  | 0   | 0    | 1    | 13      | 0   | 0   | 0      | 0   | 0    | 0   | 1   | 0   | 10  | 12  | 83.3 | 0    | 6       | 0    | 0     | 0    | Burnley |
+| Lyle Foster    | 17 | RSA    | LM  | 22-342 | 89  | 0   | 0   | 0  | 0     | 2  | 0   | 0    | 0    | 37      | 2   | 0   | 2      | 0.1 | 0.1  | 0   | 3   | 0   | 14  | 20  | 70   | 2    | 14      | 2    | 3     | 1    | Burnley |
+| Nathan Redmond | 15 | ENG    | LM  | 29-158 | 1   | 0   | 0   | 0  | 0     | 0  | 0   | 0    | 0    | 2       | 0   | 0   | 0      | 0   | 0    | 0   | 0   | 0   | 1   | 2   | 50   | 0    | 2       | 0    | 0     | 0    | Burnley |
+| Josh Cullen    | 24 | IRL    | CM  | 27-126 | 90  | 0   | 0   | 0  | 0     | 0  | 0   | 0    | 0    | 46      | 1   | 0   | 1      | 0   | 0    | 0   | 0   | 0   | 37  | 43  | 86   | 2    | 16      | 0    | 0     | 0    | Burnley |
 
 <br>
 
