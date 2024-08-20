@@ -2,7 +2,13 @@
 
 ## About me
 
-Welcome to my data science portfolio! My name is Matthew Dennahower, and I am passionate about leveraging data to uncover insights and drive decision-making. My interests lie in the ever-evolving fields of sports analytics, economics, and market dynamics. Through this portfolio, I aim to showcase my projects and expertise in these areas, demonstrating how data can be used to solve complex problems and reveal hidden patterns. Explore my work and join me on this journey of discovery and innovation!
+Welcome to my data science portfolio! My name is Matthew Dennahower, and I am dedicated to leveraging data to uncover insights and drive strategic decision-making. I hold a Bachelor of Science and a Master of Arts in Economics, equipping me with a robust foundation in analytical thinking and quantitative analysis.
+
+My professional journey spans over 7 years in the financial services industry, where I have honed my expertise in mortgage underwriting and processing. Additionally, I have a proven track record of developing comprehensive reports and uncovering actionable insights to support various departments, streamline processes, and enhance operational efficiency.
+
+My interests lie in the dynamic and ever-evolving fields of sports analytics, economics, and financial market dynamics. Through this portfolio, I aim to showcase my projects and demonstrate how data can be harnessed to solve complex problems and reveal hidden patterns.
+
+I invite you to explore my work and join me on this journey of discovery and innovation. Together, we can unlock the potential of data to drive impactful results.
 
 ## Visualizations
 
