@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 data = pd.read_csv('wnba_2024.csv')
 
 # Define the statistic you're interested in
-values = 'AST'  # Change this to the statistic you want
+values = 'TRB'  # Change this to the statistic you want
 
 # Define the team you're interested in
 team_to_plot = ''  # Change this to the team you want, leave empty to process all teams
