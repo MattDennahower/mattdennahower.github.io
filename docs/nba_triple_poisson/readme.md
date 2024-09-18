@@ -10,7 +10,7 @@ This is a work based on the base assumptions of the triple Poisson model from th
 
 Skills developed: Python (scipy), Poisson Distribution Modeling
 
-Link : [nba_triple_poisson](https://github.com/MattDennahower/mattdennahower.github.io/tree/main/docs/wnba_player_correlation)
+Link : [nba_triple_poisson](https://github.com/MattDennahower/mattdennahower.github.io/tree/main/docs/nba_triple_poisson)
 
 ----
 #### Project Board
