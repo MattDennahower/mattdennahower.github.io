@@ -24,6 +24,7 @@ nav:
   - Current projects:
     - "WNBA Player Correlation Analysis": wnba_player_correlation/readme.md
     - "Web Scraping EPL Player Game Data": epl_web_scraping/readme.md
+    - "NBA Player Triple Poisson Model": nba_triple_poisson/readme.md
 
 # Extentions
 markdown_extensions:
