@@ -24,6 +24,9 @@ Data science project analyzing intra-team player correlation in the WNBA
 2/ [Web Scraping EPL Player Game Data](epl_web_scraping/readme.md) :
 Web scraping, preprocessing, cleaning, and exporting English Premier League player game data
 
+3/ [NBA Player Triple Poisson Model](nba_triple_poisson/readme.md) :
+Data science project analyzing the number of points and three point shots made by NBA players in a given game using a triple Poisson model
+
 ## Previous projects
 Projects are sorted from most recent to oldest.
 
