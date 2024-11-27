@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mattdennahower.github.io/ev_calculator/readme/</loc>
+         <lastmod>2024-11-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mattdennahower.github.io/nba_triple_poisson/readme/</loc>
          <lastmod>2024-11-27</lastmod>
          <changefreq>daily</changefreq>
