@@ -2,7 +2,7 @@
 ## Objective
 
 This project uses a triple Poisson model to analyze the number of points and three point shots made by NBA players in a given game. The model is implemented using the scipy library in Python and is based on the principles of Poisson distribution modeling.
-This is a work based on the base assumptions of the triple Poisson model from the following blog post: [The Triple Poisson Model for Basketball Player Scoring](https://plusevanalytics.wordpress.com/2024/08/10/bet-bash-bonus-the-triple-poisson-model-for-basketball-player-scoring/) 
+This is built on the base assumptions of the triple Poisson model from the following blog post: [The Triple Poisson Model for Basketball Player Scoring](https://plusevanalytics.wordpress.com/2024/08/10/bet-bash-bonus-the-triple-poisson-model-for-basketball-player-scoring/) 
 <br>
 ![](images/output_example.png)
 
